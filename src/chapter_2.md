@@ -1,5 +1,5 @@
 # Chapter 2
-hello hello
+hello hello\n
 test
 test
 test
