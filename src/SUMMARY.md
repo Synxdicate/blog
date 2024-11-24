@@ -9,3 +9,6 @@
 - [Computer Architecture](./comarch.md)
     - [X86](./x86.md)
 - [Assembly](./asm.md)
+- [C/C++](./c_c++.md)
+    - [Dynamic Memory Allocation](dma.md)
+
