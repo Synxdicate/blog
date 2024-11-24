@@ -36,7 +36,7 @@ ld -o [output] -m elf_i386 [object_file]
 3. **BSS Segment**
 4. **Heap Segment**
 5. **Stack Segment**<br>
-![memory layout](img/Memory_Layout.jpg)
+![memory layout](img/Memory_Layout.jpg)<br>
 มีต่อ
 
 
