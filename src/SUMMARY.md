@@ -2,6 +2,7 @@
 - [<$>](./chaper_1.md)
 - [2](./chapter_2.md)
 - [3](./chapter_3.md)
+- [4](./chapter_4.md)
 ---
 - [command]()
     - [test]()
