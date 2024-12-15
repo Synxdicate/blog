@@ -1,10 +1,2 @@
 # Chapter 1
-hello world
-```c
-#include <stdio.h>
-int main(){
-    printf("hello world");
-    return 0;
-}
-this text is maintainingg<br>
-hello
+helloooooooo
