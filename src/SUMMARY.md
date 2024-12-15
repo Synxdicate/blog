@@ -1,8 +1,8 @@
 # Summary
 - [1](./1.md)
-- [2](./chapter_2.md)
-- [3](./chapter_3.md)
-- [4](./chapter_4.md)
+- [2](./2.md)
+- [3](./3.md)
+- [4](./4.md)
 ---
 - [command]()
     - [test]()
